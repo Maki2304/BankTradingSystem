@@ -1,0 +1,17 @@
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\bin\Debug\net9.0\TradingMicroservice.Infrastructure.deps.json
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\bin\Debug\net9.0\TradingMicroservice.Infrastructure.dll
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\bin\Debug\net9.0\TradingMicroservice.Infrastructure.pdb
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\bin\Debug\net9.0\TradingMicroservice.Core.dll
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\bin\Debug\net9.0\TradingMicroservice.Core.pdb
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.AssemblyInfo.cs
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingM.912D8F32.Up2Date
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.dll
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\refint\TradingMicroservice.Infrastructure.dll
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.pdb
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\ref\TradingMicroservice.Infrastructure.dll
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\bin\Debug\net9.0\TradingMicroservice.Infrastructure.runtimeconfig.json
+C:\Users\Mladen\Work\TradingMicroservice.Infrastructure\obj\Debug\net9.0\TradingMicroservice.Infrastructure.genruntimeconfig.cache

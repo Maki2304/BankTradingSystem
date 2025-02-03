@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingMicroservice.API", "TradingMicroservice.API\TradingMicroservice.API.csproj", "{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingMicroservice.Core", "TradingMicroservice.Core\TradingMicroservice.Core.csproj", "{274741C6-63FE-43DB-919B-6C25F1980796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingMicroservice.Infrastructure", "TradingMicroservice.Infrastructure\TradingMicroservice.Infrastructure.csproj", "{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingMicroservice.Console", "TradingMicroservice.Console\TradingMicroservice.Console.csproj", "{407D5DCE-149B-4829-B1A3-8997EDE6A239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingMicroservice.UnitTests", "TradingMicroservice.UnitTests\TradingMicroservice.UnitTests.csproj", "{31BAAF18-F20A-4C78-AC98-2E3D2AFCBD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingMicroservice.IntegrationTests", "TradingMicroservice.IntegrationTests\TradingMicroservice.IntegrationTests.csproj", "{26ED9263-24C7-4CBA-96C3-875710A7D995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274741C6-63FE-43DB-919B-6C25F1980796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274741C6-63FE-43DB-919B-6C25F1980796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274741C6-63FE-43DB-919B-6C25F1980796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274741C6-63FE-43DB-919B-6C25F1980796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407D5DCE-149B-4829-B1A3-8997EDE6A239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407D5DCE-149B-4829-B1A3-8997EDE6A239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407D5DCE-149B-4829-B1A3-8997EDE6A239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407D5DCE-149B-4829-B1A3-8997EDE6A239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BAAF18-F20A-4C78-AC98-2E3D2AFCBD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BAAF18-F20A-4C78-AC98-2E3D2AFCBD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BAAF18-F20A-4C78-AC98-2E3D2AFCBD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BAAF18-F20A-4C78-AC98-2E3D2AFCBD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26ED9263-24C7-4CBA-96C3-875710A7D995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ED9263-24C7-4CBA-96C3-875710A7D995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26ED9263-24C7-4CBA-96C3-875710A7D995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26ED9263-24C7-4CBA-96C3-875710A7D995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

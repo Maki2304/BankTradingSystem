@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yyZrmDF16XjJIsaplK9A1RCyTxXcRfLH0fEpKfLWM7w=",
+  "Source": "TradingMicroservice.API",
+  "BasePath": "_content/TradingMicroservice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

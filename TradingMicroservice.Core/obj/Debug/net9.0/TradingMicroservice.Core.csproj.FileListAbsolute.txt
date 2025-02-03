@@ -1,0 +1,12 @@
+C:\Users\Mladen\Work\TradingMicroservice.Core\bin\Debug\net9.0\TradingMicroservice.Core.deps.json
+C:\Users\Mladen\Work\TradingMicroservice.Core\bin\Debug\net9.0\TradingMicroservice.Core.dll
+C:\Users\Mladen\Work\TradingMicroservice.Core\bin\Debug\net9.0\TradingMicroservice.Core.pdb
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.csproj.AssemblyReference.cache
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.AssemblyInfoInputs.cache
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.AssemblyInfo.cs
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.dll
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\refint\TradingMicroservice.Core.dll
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\TradingMicroservice.Core.pdb
+C:\Users\Mladen\Work\TradingMicroservice.Core\obj\Debug\net9.0\ref\TradingMicroservice.Core.dll

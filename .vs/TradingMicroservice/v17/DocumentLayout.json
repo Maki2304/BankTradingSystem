@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mladen\\Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}|TradingMicroservice.Infrastructure\\TradingMicroservice.Infrastructure.csproj|c:\\users\\mladen\\work\\tradingmicroservice.infrastructure\\services\\tradingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D508237-3D4D-4D1F-ADDA-A3BD4347DBFA}|TradingMicroservice.Infrastructure\\TradingMicroservice.Infrastructure.csproj|solutionrelative:tradingmicroservice.infrastructure\\services\\tradingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}|TradingMicroservice.API\\TradingMicroservice.API.csproj|c:\\users\\mladen\\work\\tradingmicroservice.api\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}|TradingMicroservice.API\\TradingMicroservice.API.csproj|solutionrelative:tradingmicroservice.api\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}|TradingMicroservice.API\\TradingMicroservice.API.csproj|c:\\users\\mladen\\work\\tradingmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}|TradingMicroservice.API\\TradingMicroservice.API.csproj|solutionrelative:tradingmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}|TradingMicroservice.API\\TradingMicroservice.API.csproj|c:\\users\\mladen\\work\\tradingmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FAAA9C-9ADB-447F-9730-52E87DE6FDD0}|TradingMicroservice.API\\TradingMicroservice.API.csproj|solutionrelative:tradingmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407D5DCE-149B-4829-B1A3-8997EDE6A239}|TradingMicroservice.Console\\TradingMicroservice.Console.csproj|c:\\users\\mladen\\work\\tradingmicroservice.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{407D5DCE-149B-4829-B1A3-8997EDE6A239}|TradingMicroservice.Console\\TradingMicroservice.Console.csproj|solutionrelative:tradingmicroservice.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|c:\\users\\mladen\\work\\tradingmicroservice.core\\abstraction\\imessagequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|solutionrelative:tradingmicroservice.core\\abstraction\\imessagequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407D5DCE-149B-4829-B1A3-8997EDE6A239}|TradingMicroservice.Console\\TradingMicroservice.Console.csproj|c:\\users\\mladen\\work\\tradingmicroservice.console\\services\\traderconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407D5DCE-149B-4829-B1A3-8997EDE6A239}|TradingMicroservice.Console\\TradingMicroservice.Console.csproj|solutionrelative:tradingmicroservice.console\\services\\traderconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|c:\\users\\mladen\\work\\tradingmicroservice.core\\abstraction\\itradingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|solutionrelative:tradingmicroservice.core\\abstraction\\itradingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407D5DCE-149B-4829-B1A3-8997EDE6A239}|TradingMicroservice.Console\\TradingMicroservice.Console.csproj|c:\\users\\mladen\\work\\tradingmicroservice.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407D5DCE-149B-4829-B1A3-8997EDE6A239}|TradingMicroservice.Console\\TradingMicroservice.Console.csproj|solutionrelative:tradingmicroservice.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|c:\\users\\mladen\\work\\tradingmicroservice.core\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|solutionrelative:tradingmicroservice.core\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|c:\\users\\mladen\\work\\tradingmicroservice.core\\models\\traderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274741C6-63FE-43DB-919B-6C25F1980796}|TradingMicroservice.Core\\TradingMicroservice.Core.csproj|solutionrelative:tradingmicroservice.core\\models\\traderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TradingMicroservice.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.API\\appsettings.json",
+              "RelativeToolTip": "TradingMicroservice.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T23:14:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Abstraction\\IMessageQueueService.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Core\\Abstraction\\IMessageQueueService.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Abstraction\\IMessageQueueService.cs",
+              "RelativeToolTip": "TradingMicroservice.Core\\Abstraction\\IMessageQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:10:34.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITradingService.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Abstraction\\ITradingService.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Core\\Abstraction\\ITradingService.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Abstraction\\ITradingService.cs",
+              "RelativeToolTip": "TradingMicroservice.Core\\Abstraction\\ITradingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:10:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Console\\appsettings.json",
+              "RelativeDocumentMoniker": "TradingMicroservice.Console\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Console\\appsettings.json",
+              "RelativeToolTip": "TradingMicroservice.Console\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T21:27:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.API\\Controllers\\TradesController.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.API\\Controllers\\TradesController.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.API\\Controllers\\TradesController.cs",
+              "RelativeToolTip": "TradingMicroservice.API\\Controllers\\TradesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:43:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TradingService.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Infrastructure\\Services\\TradingService.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Infrastructure\\Services\\TradingService.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Infrastructure\\Services\\TradingService.cs",
+              "RelativeToolTip": "TradingMicroservice.Infrastructure\\Services\\TradingService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAWwDAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:39:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.API\\Program.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.API\\Program.cs",
+              "RelativeToolTip": "TradingMicroservice.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:05:19.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TraderConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Console\\Services\\TraderConsumerService.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Console\\Services\\TraderConsumerService.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Console\\Services\\TraderConsumerService.cs",
+              "RelativeToolTip": "TradingMicroservice.Console\\Services\\TraderConsumerService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:03:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Console\\Program.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Console\\Program.cs",
+              "RelativeToolTip": "TradingMicroservice.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:02:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TradeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Models\\TradeRequest.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Core\\Models\\TradeRequest.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Models\\TradeRequest.cs",
+              "RelativeToolTip": "TradingMicroservice.Core\\Models\\TradeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:50:45.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "TradingMicroservice.Core\\Models\\Trade.cs",
+              "ToolTip": "C:\\Users\\Mladen\\Work\\TradingMicroservice.Core\\Models\\Trade.cs",
+              "RelativeToolTip": "TradingMicroservice.Core\\Models\\Trade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:41:25.667Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

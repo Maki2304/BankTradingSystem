@@ -20,6 +20,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TradingMicroservice.API\TradingMicroservice.API.csproj" />
+    <ProjectReference Include="..\TradingMicroservice.Console\TradingMicroservice.Console.csproj" />
+    <ProjectReference Include="..\TradingMicroservice.Core\TradingMicroservice.Core.csproj" />
+    <ProjectReference Include="..\TradingMicroservice.Infrastructure\TradingMicroservice.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
